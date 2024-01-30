@@ -253,7 +253,7 @@ class App {
                     <span class="workout__value">${workout.elevation}</span>
                     <span class="workout__unit">m</span>
                 </div>
-            </li> -->
+            </li>
             `;
 
         form.insertAdjacentHTML('afterend', html);
